@@ -1,0 +1,14 @@
+C:\Users\henry\source\repos\WeatherAPIConsole\WeatherAPIConsole\bin\Debug\netcoreapp3.1\WeatherAPIConsole.exe
+C:\Users\henry\source\repos\WeatherAPIConsole\WeatherAPIConsole\bin\Debug\netcoreapp3.1\WeatherAPIConsole.deps.json
+C:\Users\henry\source\repos\WeatherAPIConsole\WeatherAPIConsole\bin\Debug\netcoreapp3.1\WeatherAPIConsole.runtimeconfig.json
+C:\Users\henry\source\repos\WeatherAPIConsole\WeatherAPIConsole\bin\Debug\netcoreapp3.1\WeatherAPIConsole.runtimeconfig.dev.json
+C:\Users\henry\source\repos\WeatherAPIConsole\WeatherAPIConsole\bin\Debug\netcoreapp3.1\WeatherAPIConsole.dll
+C:\Users\henry\source\repos\WeatherAPIConsole\WeatherAPIConsole\bin\Debug\netcoreapp3.1\WeatherAPIConsole.pdb
+C:\Users\henry\source\repos\WeatherAPIConsole\WeatherAPIConsole\obj\Debug\netcoreapp3.1\WeatherAPIConsole.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\WeatherAPIConsole\WeatherAPIConsole\obj\Debug\netcoreapp3.1\WeatherAPIConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\WeatherAPIConsole\WeatherAPIConsole\obj\Debug\netcoreapp3.1\WeatherAPIConsole.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\WeatherAPIConsole\WeatherAPIConsole\obj\Debug\netcoreapp3.1\WeatherAPIConsole.AssemblyInfo.cs
+C:\Users\henry\source\repos\WeatherAPIConsole\WeatherAPIConsole\obj\Debug\netcoreapp3.1\WeatherAPIConsole.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\WeatherAPIConsole\WeatherAPIConsole\obj\Debug\netcoreapp3.1\WeatherAPIConsole.dll
+C:\Users\henry\source\repos\WeatherAPIConsole\WeatherAPIConsole\obj\Debug\netcoreapp3.1\WeatherAPIConsole.pdb
+C:\Users\henry\source\repos\WeatherAPIConsole\WeatherAPIConsole\obj\Debug\netcoreapp3.1\WeatherAPIConsole.genruntimeconfig.cache
