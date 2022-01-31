@@ -1,1 +1,41 @@
-{"coord":{"lon":18.0649,"lat":59.3326},"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10n"}],"base":"stations","main":{"temp":276.72,"feels_like":272.63,"temp_min":276.15,"temp_max":277.18,"pressure":984,"humidity":90},"visibility":10000,"wind":{"speed":5.14,"deg":210},"rain":{"1h":0.71},"clouds":{"all":75},"dt":1642626481,"sys":{"type":1,"id":1788,"country":"SE","sunrise":1642577061,"sunset":1642602724},"timezone":3600,"id":2673730,"name":"Stockholm","cod":200}
+{
+  "coord": {
+    "lon": 18.0649,
+    "lat": 59.3326
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 270.52,
+    "feels_like": 263.52,
+    "temp_min": 269.85,
+    "temp_max": 271.01,
+    "pressure": 996,
+    "humidity": 71
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 9.26,
+    "deg": 310
+  },
+  "clouds": { "all": 0 },
+  "dt": 1642686970,
+  "sys": {
+    "type": 1,
+    "id": 1788,
+    "country": "SE",
+    "sunrise": 1642663359,
+    "sunset": 1642689263
+  },
+  "timezone": 3600,
+  "id": 2673730,
+  "name": "Stockholm",
+  "cod": 200
+}
