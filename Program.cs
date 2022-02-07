@@ -12,10 +12,11 @@ namespace WeatherAPIConsole
         static void Get(string city)
         {
             string response;
+            string key = "";
 
             using (WebClient client = new WebClient())
             {
-                string url = "http://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=c6a2fb09b303bc24611ed5f3b3ff67d4";
+                string url = "http://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=" + key;
                 response   = client.DownloadString(url);
             }
 
